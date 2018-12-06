@@ -1,6 +1,6 @@
-R Analysis Skeleton
+Maps of Cohesion
 =========
 
-This project contains the files and settings commonly used in analysis projects with R.  A developer can start  an analysis repository more quickly by copying these files.
+This project explores and experiments with graphical representation of functional cohesion of channels during Near InfraRed Spectroscopy (NIRS). 
 
-https://github.com/wibeasley/RAnalysisSkeleton/
+https://github.com/cibsr/maps-of-cohesion
